@@ -3,6 +3,8 @@
 
 课程主页：https://coding.imooc.com/learn/list/504.html
 
+Kaggle官网：https://www.kaggle.com/
+
 ## 课程代码
 
 - [2-5：XGBoost 、LightGBM和Catboost](https://git.imooc.com/coding-504/kaggle-course-note/src/master/code/2-quick-study-lgbm-xgb-and-catboost-lb-1-66.ipynb), [在线运行版本](https://www.kaggle.com/julian3833/2-quick-study-lgbm-xgb-and-catboost-lb-1-66)
