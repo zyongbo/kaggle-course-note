@@ -18,3 +18,5 @@ Kaggle官网：https://www.kaggle.com/
 - [3-9 IEEE-CIS Fraud Detection赛题实践](https://git.imooc.com/coding-504/kaggle-course-note/src/master/code/ieee-fraud-detection-starter.ipynb)
 - [4-3 Quora Question Pairs赛题介绍](https://git.imooc.com/coding-504/kaggle-course-note/src/master/code/quora-pairs-eda.ipynb)
 - [4-4 Quora Question Pairs赛题实践](https://git.imooc.com/coding-504/kaggle-course-note/src/master/code/quora-pairs-starter.ipynb)
+- [4-7 Quora Insincere Questions Classification赛题介绍](https://git.imooc.com/coding-504/kaggle-course-note/src/master/code/simple-exploration-notebook-qiqc.ipynb), [在线运行版本](https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-qiqc)
+- [4-8 Quora Insincere Questions Classification赛题实践](https://git.imooc.com/coding-504/kaggle-course-note/src/master/code/qiqc-text-modelling-in-pytorch.ipynb), [在线版本](https://www.kaggle.com/finlay/qiqc-text-modelling-in-pytorch/)
