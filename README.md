@@ -22,8 +22,8 @@ Kaggle官网：https://www.kaggle.com/
 - [4-8 Quora Insincere Questions Classification赛题实践](https://git.imooc.com/coding-504/kaggle-course-note/src/master/code/qiqc-text-modelling-in-pytorch.ipynb), [在线版本](https://www.kaggle.com/finlay/qiqc-text-modelling-in-pytorch/)
 - [5-2/5-3 语音特征处理](https://git.imooc.com/coding-504/kaggle-course-note/src/master/code/audio-basic.ipynb)
 - [5-4 语音模型和数据扩增方法](https://git.imooc.com/coding-504/kaggle-course-note/src/master/code/audio-aug.ipynb)
-- [5-5 Cornell Birdcall Identification赛题介绍](), [在线运行版本](https://www.kaggle.com/rohitsingh9990/eda-visualizations-simple-baseline)
-- [5-6 Cornell Birdcall Identification动手实践](), [在线运行版本](https://www.kaggle.com/hidehisaarai1213/introduction-to-sound-event-detection)
+- 5-5 Cornell Birdcall Identification赛题介绍, [在线运行版本](https://www.kaggle.com/rohitsingh9990/eda-visualizations-simple-baseline)
+- 5-6 Cornell Birdcall Identification动手实践, [在线运行版本](https://www.kaggle.com/hidehisaarai1213/introduction-to-sound-event-detection)
 ## 课程数据集
 
 ## 其他资料
