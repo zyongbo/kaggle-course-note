@@ -28,4 +28,22 @@ Kaggle官网：https://www.kaggle.com/
 
 ## 课程数据集
 
-## 其他资料
+## 库使用
+
+### timm库
+
+
+列举模型：
+```
+import timm
+from pprint import pprint
+model_names = timm.list_models('*eff*t*')
+pprint(model_names)
+```
+
+加载模型：
+```
+import timm
+m = timm.create_model('resnet18', pretrained=True)
+m.eval()
+```
