@@ -50,6 +50,8 @@ m.eval()
 
 ### smp库：语义分割
 
+https://github.com/qubvel/segmentation_models.pytorch
+
 ```
 import segmentation_models_pytorch as smp
 
