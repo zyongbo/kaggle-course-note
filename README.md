@@ -28,9 +28,12 @@ Kaggle官网：https://www.kaggle.com/
 
 ## 课程数据集
 
-- Instant Gratification
 
-链接: https://pan.baidu.com/s/1MfC2CikWeKMnjJAk2jD5oQ  密码: 1e4t
+- Titanic数据集链接链接: https://pan.baidu.com/s/1esdu5AQNa3CIbNpVXtbNAw  密码: 2gje
+- Instant Gratification数据集链接: https://pan.baidu.com/s/1MfC2CikWeKMnjJAk2jD5oQ  密码: 1e4t
+- IEEE-CIS Fraud Detection数据集链接：链接: https://pan.baidu.com/s/1RduL9UeNaILSwd4F2YEUFQ  密码: w6gc
+- Quora Question Pairs数据集链接: https://pan.baidu.com/s/1RPr58Od9nxmwfjCunusFdA  密码: 872b
+
 
 ## 库使用
 
