@@ -28,6 +28,10 @@ Kaggle官网：https://www.kaggle.com/
 
 ## 课程数据集
 
+- Instant Gratification
+
+链接: https://pan.baidu.com/s/1MfC2CikWeKMnjJAk2jD5oQ  密码: 1e4t
+
 ## 库使用
 
 ### timm库：图像分类
