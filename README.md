@@ -41,6 +41,25 @@ Kaggle官网：https://www.kaggle.com/
 - Quora Insincere Questions Classification赛题链接: https://pan.baidu.com/s/12leThUbxmaH4k5LiWfp56Q  密码: hkue
 - Severstal Steel Defect Detection数据集链接: https://pan.baidu.com/s/1xTwbNiyleVby3aQtrMtr1Q  密码: 4q33
 
+
+## 比赛优胜方案
+
+### [Instant Gratification](https://www.kaggle.com/c/instant-gratification)
+
+- 第一名：https://www.kaggle.com/c/instant-gratification/discussion/96549#latest-564990
+- 第二名：https://www.kaggle.com/qiaoshiji/asdfghjkl?scriptVersionId=16011704
+- 第三名：https://www.kaggle.com/c/instant-gratification/discussion/96504#latest-564294
+- 第四名：https://www.kaggle.com/rsakata/gmm-with-target-perfect-pred-random-shuffle
+- 第五名：https://www.kaggle.com/c/instant-gratification/discussion/96510
+- 第六名：https://www.kaggle.com/c/instant-gratification/discussion/96496#latest-589419
+- 第七名：https://www.kaggle.com/cdeotte/3-clusters-per-class-0-975
+- 第八名：https://www.kaggle.com/c/instant-gratification/discussion/96568
+- 第九名：https://www.kaggle.com/c/instant-gratification/discussion/96556
+- 第13名：https://www.kaggle.com/c/instant-gratification/discussion/96531
+- 第14名：https://www.kaggle.com/c/instant-gratification/discussion/96533#latest-564293
+- 第32名：https://www.kaggle.com/c/instant-gratification/discussion/96525#latest-562649
+
+
 ## 库使用
 
 ### timm库：图像分类
