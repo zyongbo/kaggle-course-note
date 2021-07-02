@@ -59,6 +59,93 @@ Kaggle官网：https://www.kaggle.com/
 - 第14名：https://www.kaggle.com/c/instant-gratification/discussion/96533#latest-564293
 - 第32名：https://www.kaggle.com/c/instant-gratification/discussion/96525#latest-562649
 
+### [IEEE-CIS Fraud Detection](https://www.kaggle.com/c/ieee-fraud-detection)
+
+- 第1名：https://www.kaggle.com/c/ieee-fraud-detection/discussion/111308
+- 第2名：https://www.kaggle.com/c/ieee-fraud-detection/discussion/111321
+- 第5名：https://www.kaggle.com/c/ieee-fraud-detection/discussion/111735
+- 第6名：https://www.kaggle.com/c/ieee-fraud-detection/discussion/111247
+- 第9名：https://www.kaggle.com/c/ieee-fraud-detection/discussion/111234
+- 第10名：https://www.kaggle.com/c/ieee-fraud-detection/discussion/113159
+- 第11名：https://www.kaggle.com/c/ieee-fraud-detection/discussion/111235
+- 第13名：https://www.kaggle.com/c/ieee-fraud-detection/discussion/111485
+- 第15名：https://www.kaggle.com/c/ieee-fraud-detection/discussion/111454
+- 第17名：https://www.kaggle.com/c/ieee-fraud-detection/discussion/111696
+- 第19名：https://www.kaggle.com/c/ieee-fraud-detection/discussion/111489
+- 第21名：https://www.kaggle.com/c/ieee-fraud-detection/discussion/111197
+- 第25名：https://www.kaggle.com/c/ieee-fraud-detection/discussion/111511
+- 第29名：https://www.kaggle.com/c/ieee-fraud-detection/discussion/111306
+- 第40名：https://www.kaggle.com/c/ieee-fraud-detection/discussion/111245
+- 第41名：https://www.kaggle.com/c/ieee-fraud-detection/discussion/111341
+
+### [Quora Question Pairs](https://www.kaggle.com/c/quora-question-pairs)
+
+- 第1名：https://www.kaggle.com/c/quora-question-pairs/discussion/34355
+- 第2名：https://www.kaggle.com/c/quora-question-pairs/discussion/34310
+- 第3名：https://github.com/sjvasquez/quora-duplicate-questions
+- 第4名：https://www.kaggle.com/c/quora-question-pairs/discussion/34349
+- 第5名：https://www.kaggle.com/c/quora-question-pairs/discussion/34359
+- 第7名：https://www.kaggle.com/c/quora-question-pairs/discussion/34697
+- 第8名：https://www.kaggle.com/c/quora-question-pairs/discussion/34371
+- 第12名：https://www.kaggle.com/c/quora-question-pairs/discussion/34342
+- 第14名：https://github.com/Wrosinski/Kaggle-Quora
+- 第24名：https://www.kaggle.com/c/quora-question-pairs/discussion/34534
+- 第34名：https://www.kaggle.com/c/quora-question-pairs/discussion/34292
+- 第37名：https://github.com/YuriyGuts/kaggle-quora-question-pairs
+- 第43名：https://www.kaggle.com/rethfro/1d-cnn-single-model-score-0-14-0-16-or-0-23
+- 第79名：https://github.com/stys/kaggle-quora-question-pairs
+
+### [Quora Insincere Questions Classification](https://www.kaggle.com/c/quora-insincere-questions-classification)
+
+- 第1名：https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80568
+- 第2名：https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/81137
+- 第3名：https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80495
+- 第4名：https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/81632
+- 第7名：https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80561
+- 第10名：https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80718
+- 第13名：https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80499
+- 第15名：https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80540
+- 第18名：https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80696
+- 第20名：https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80527
+- 第22名：https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80514
+- 第25名：https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80542
+- 第26名：https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80544
+- 第27名：https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80494
+- 第33名：https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80577
+
+### [Cornell Birdcall Identification](https://www.kaggle.com/c/birdsong-recognition)
+
+- 第1名：https://www.kaggle.com/c/birdsong-recognition/discussion/183208
+- 第2名：https://www.kaggle.com/c/birdsong-recognition/discussion/183269
+- 第3名：https://www.kaggle.com/c/birdsong-recognition/discussion/183199
+- 第4名：https://www.kaggle.com/c/birdsong-recognition/discussion/183339
+- 第5名：https://www.kaggle.com/c/birdsong-recognition/discussion/183300
+- 第6名：https://www.kaggle.com/c/birdsong-recognition/discussion/183204
+- 第8名：https://www.kaggle.com/c/birdsong-recognition/discussion/183223
+- 第9名：https://www.kaggle.com/c/birdsong-recognition/discussion/183315
+- 第10名：https://www.kaggle.com/c/birdsong-recognition/discussion/183407
+- 第13名：https://www.kaggle.com/c/birdsong-recognition/discussion/183436
+- 第17名：https://www.kaggle.com/c/birdsong-recognition/discussion/183255
+- 第18名：https://www.kaggle.com/c/birdsong-recognition/discussion/183219
+- 第21名：https://www.kaggle.com/c/birdsong-recognition/discussion/183209
+- 第36名：https://www.kaggle.com/c/birdsong-recognition/discussion/183222
+- 第39名：https://www.kaggle.com/c/birdsong-recognition/discussion/183258
+- 第43名：https://www.kaggle.com/c/birdsong-recognition/discussion/183240
+
+### [Quick, Draw! Doodle Recognition Challenge](https://www.kaggle.com/c/quickdraw-doodle-recognition)
+
+- 第1名：https://www.kaggle.com/c/quickdraw-doodle-recognition/discussion/73738
+- 第5名：https://www.kaggle.com/c/quickdraw-doodle-recognition/discussion/73708
+- 第8名：https://github.com/alekseynp/kaggle-quickdraw
+- 第8名：https://www.kaggle.com/c/quickdraw-doodle-recognition/discussion/73967
+- 第10名：https://github.com/Kulbear/QuickDraw
+- 第11名：https://github.com/ngxbac/Kaggle-QuickDraw
+- 第11名：https://www.kaggle.com/c/quickdraw-doodle-recognition/discussion/73808
+- 第12名：https://www.kaggle.com/c/quickdraw-doodle-recognition/discussion/74132
+- 第14名：https://www.kaggle.com/c/quickdraw-doodle-recognition/discussion/73761
+- 第21名：https://www.kaggle.com/c/quickdraw-doodle-recognition/discussion/73754
+- 第24名：https://www.kaggle.com/c/quickdraw-doodle-recognition/discussion/73701
+
 
 ## 库使用
 
