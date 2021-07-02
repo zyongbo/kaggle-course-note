@@ -24,7 +24,8 @@ Kaggle官网：https://www.kaggle.com/
 - [5-4 语音模型和数据扩增方法](https://git.imooc.com/coding-504/kaggle-course-note/src/master/code/audio-aug.ipynb)
 - 5-5 Cornell Birdcall Identification赛题介绍, [在线运行版本](https://www.kaggle.com/rohitsingh9990/eda-visualizations-simple-baseline)
 - 5-6 Cornell Birdcall Identification动手实践, [在线运行版本](https://www.kaggle.com/hidehisaarai1213/introduction-to-sound-event-detection)
-
+- [6-1 数字图像基础](https://git.imooc.com/coding-504/kaggle-course-note/src/master/code/%e6%95%b0%e5%ad%97%e5%9b%be%e5%83%8f%e5%9f%ba%e7%a1%80.ipynb)
+- 6-4 Quick, Draw! Doodle Recognition Challenge赛题介绍, [在线运行版本](https://www.kaggle.com/gaborfodor/how-to-draw-an-owl-lb-0-002)
 
 ## 课程数据集
 
