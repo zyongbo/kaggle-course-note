@@ -26,11 +26,12 @@ Kaggle官网：https://www.kaggle.com/
 - 5-6 Cornell Birdcall Identification动手实践, [在线运行版本](https://www.kaggle.com/hidehisaarai1213/introduction-to-sound-event-detection)
 - [6-1 数字图像基础](https://git.imooc.com/coding-504/kaggle-course-note/src/master/code/%e6%95%b0%e5%ad%97%e5%9b%be%e5%83%8f%e5%9f%ba%e7%a1%80.ipynb)
 - 6-4 Quick, Draw! Doodle Recognition Challenge赛题介绍, [在线运行版本](https://www.kaggle.com/gaborfodor/how-to-draw-an-owl-lb-0-002)
+- 6-5 Quick, Draw! Doodle Recognition Challenge动手实践, [保存文件](https://git.imooc.com/coding-504/kaggle-course-note/src/master/code/quickdraw_1_savedf.py), [训练分类模型](https://git.imooc.com/coding-504/kaggle-course-note/src/master/code/quickdraw_2_train.py)
 - 6-8 Severstal Steel Defect Detection赛题介绍, [在线运行版本](https://www.kaggle.com/ikaynov/severstal-eda)
 - 6-9 Severstal Steel Defect Detection动手实践, [在线运行版本](https://www.kaggle.com/rishabhiitbhu/unet-starter-kernel-pytorch-lb-0-88)
 
 
-## 课程数据集
+## 课程数据集（部分）
 
 
 - Titanic数据集链接链接: https://pan.baidu.com/s/1esdu5AQNa3CIbNpVXtbNAw  密码: 2gje
