@@ -147,6 +147,26 @@ Kaggle官网：https://www.kaggle.com/
 - 第24名：https://www.kaggle.com/c/quickdraw-doodle-recognition/discussion/73701
 
 
+### [Severstal: Steel Defect Detection](https://www.kaggle.com/c/severstal-steel-defect-detection)
+
+- 第1名：https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/114254
+- 第3名：https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/117377
+- 第4名：https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/114716
+- 第5名：https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/117208
+- 第7名：https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/114215
+- 第8名：https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/114696
+- 第9名：https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/114297
+- 第10名：https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/114465
+- 第12名：https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/114309
+- 第13名：https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/114332
+- 第14名：https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/114367
+- 第24名：https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/116575
+- 第27名：https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/115876
+- 第30名：https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/114225
+- 第31名：https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/114383
+- 第36名：https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/114269
+- 第57名：https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/114517
+
 ## 库使用
 
 ### timm库：图像分类
