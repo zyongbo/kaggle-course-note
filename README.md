@@ -28,7 +28,7 @@ Kaggle官网：https://www.kaggle.com/
 - 6-4 Quick, Draw! Doodle Recognition Challenge赛题介绍, [在线运行版本](https://www.kaggle.com/gaborfodor/how-to-draw-an-owl-lb-0-002)
 - 6-5 Quick, Draw! Doodle Recognition Challenge动手实践, [保存文件](https://git.imooc.com/coding-504/kaggle-course-note/src/master/code/quickdraw_1_savedf.py), [训练分类模型](https://git.imooc.com/coding-504/kaggle-course-note/src/master/code/quickdraw_2_train.py)
 - 6-8 Severstal Steel Defect Detection赛题介绍, [在线运行版本](https://www.kaggle.com/ikaynov/severstal-eda)
-- 6-9 Severstal Steel Defect Detection动手实践, [在线运行版本](https://www.kaggle.com/rishabhiitbhu/unet-starter-kernel-pytorch-lb-0-88)
+- 6-9 Severstal Steel Defect Detection动手实践, [在线运行版本](https://www.kaggle.com/finlay/unet-starter-kernel-pytorch-lb-0-88/)
 
 
 ## 课程数据集（部分）
