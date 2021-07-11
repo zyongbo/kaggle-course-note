@@ -30,6 +30,13 @@ Kaggle官网：https://www.kaggle.com/
 - 6-8 Severstal Steel Defect Detection赛题介绍, [在线运行版本](https://www.kaggle.com/ikaynov/severstal-eda)
 - 6-9 Severstal Steel Defect Detection动手实践, [在线运行版本](https://www.kaggle.com/finlay/unet-starter-kernel-pytorch-lb-0-88/)
 
+--
+
+Indoor Location & Navigation动手实践
+- [wifi特征提取](https://www.kaggle.com/devinanzelmo/wifi-features)
+- [wifi特征数据集](https://www.kaggle.com/devinanzelmo/indoor-navigation-and-location-wifi-features)
+- [基础模型](https://www.kaggle.com/jiweiliu/wifi-features-lightgbm-starter-simple-tuning/)
+
 
 ## 课程数据集（部分）
 
