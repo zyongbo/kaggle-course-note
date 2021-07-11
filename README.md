@@ -37,6 +37,7 @@ Kaggle官网：https://www.kaggle.com/
 - Titanic数据集链接: https://pan.baidu.com/s/1esdu5AQNa3CIbNpVXtbNAw  密码: 2gje
 - Instant Gratification数据集链接: https://pan.baidu.com/s/1MfC2CikWeKMnjJAk2jD5oQ  密码: 1e4t
 - IEEE-CIS Fraud Detection数据集链接: https://pan.baidu.com/s/1RduL9UeNaILSwd4F2YEUFQ  密码: w6gc
+- Indoor Location & Navigation数据集链接: https://pan.baidu.com/s/1thIp4JLtJpDgWsdRfFo3PA  密码: 8j1n
 - Quora Question Pairs数据集链接: https://pan.baidu.com/s/1RPr58Od9nxmwfjCunusFdA  密码: 872b
 - Quora Insincere Questions Classification赛题链接: https://pan.baidu.com/s/12leThUbxmaH4k5LiWfp56Q  密码: hkue
 - Severstal Steel Defect Detection数据集链接: https://pan.baidu.com/s/1xTwbNiyleVby3aQtrMtr1Q  密码: 4q33
