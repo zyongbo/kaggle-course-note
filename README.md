@@ -36,7 +36,7 @@ Indoor Location & Navigation动手实践
 - [wifi特征提取](https://www.kaggle.com/devinanzelmo/wifi-features)
 - [wifi特征数据集](https://www.kaggle.com/devinanzelmo/indoor-navigation-and-location-wifi-features)
 - [基础模型](https://www.kaggle.com/jiweiliu/wifi-features-lightgbm-starter-simple-tuning/)
-
+- [热门WIFI提取](https://www.kaggle.com/kokitanisaka/create-unified-wifi-features-example), [WIFI序列LSTM建模](https://www.kaggle.com/kokitanisaka/lstm-by-keras-with-unified-wi-fi-feats/)
 
 ## 课程数据集（部分）
 
